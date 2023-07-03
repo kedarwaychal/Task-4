@@ -26,5 +26,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 "# Task-4" 
+<<<<<<< HEAD
 # Task-On-Chart-Formation
+<<<<<<< HEAD
 # Chart-Formation-On-Input-Value
+=======
+=======
+"# Chart-Formation" 
+>>>>>>> 86e58ec90847e226fb623e3a94a07d6cfa4361e1
+>>>>>>> 5cce12d4bcd65514b51211186d8d79f0c587d0e7
